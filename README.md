@@ -3,10 +3,8 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+This program intends to remove strings containing 'oggy' from a list of strings for no reason.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+It was made to work by replacing "iterator" with "reverse for loop"
