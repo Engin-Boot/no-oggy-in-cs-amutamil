@@ -5,7 +5,3 @@
 ## Intention
 
 This program removes strings containing 'oggy' from a list of strings for no reason.
-
-## Method
-
-Reverse iteration using for loop is used.
