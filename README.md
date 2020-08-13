@@ -7,4 +7,3 @@ This program intends to remove strings containing 'oggy' from a list of strings 
 
 ## Method
 
-It was made to work by replacing "iterator" with "reverse for loop"
